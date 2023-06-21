@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1685571867 source:c:\users\usuario\desktop\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1685570793 c:\users\usuario\desktop\proyecto\cliente.h
+
+1685571901 source:c:\users\usuario\desktop\proyecto\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1686177721 source:c:\users\usuario\desktop\proyecto-main\proyecto\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1686176970 c:\users\usuario\desktop\proyecto-main\proyecto\cliente.h
+
+1686177255 source:c:\users\usuario\desktop\proyecto-main\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1687303339 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\proyecto-main\proyecto\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1687306116 c:\users\usuario\documents\plantillas personalizadas de office\lucas\proyecto-main\proyecto\cliente.h
+
+1687306116 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\proyecto-main\proyecto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	<time.h>
+
+1687306116 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\proyecto-main\proyecto\menugeneral.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1687303339 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\proyecto-main\proyecto\cuenta.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+
+1687303339 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\proyecto-main\proyecto\movimiento.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	<time.h>
+
+1687301262 source:c:\users\usuario\documents\plantillas personalizadas de office\lucas\proyecto-main\proyecto\random.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"cliente.h"
+	<time.h>
+
